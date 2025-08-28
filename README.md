@@ -89,12 +89,14 @@ The dashboard provides insights into **patient workflow, bed occupancy, doctor a
    ```bash
    git clone https://github.com/your-username/Apollo-Hospital-Dashboard.git
 
-##👤 Author
+--
 
--Deewakar Kumar
--📧 Email: deewakar2412@gmail.com
+👤 Author
 
--📍 Bokaro, Jharkhand, India
+Deewakar Kumar
+📧 Email: deewakar2412@gmail.com
+
+📍 Bokaro, Jharkhand, India
 
 
 
