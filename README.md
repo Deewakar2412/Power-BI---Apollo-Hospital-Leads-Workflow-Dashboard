@@ -52,7 +52,7 @@ The dashboard provides insights into **patient workflow, bed occupancy, doctor a
 ## 📊 Dashboard & Insights
 
 ### 🔹 Dashboard Preview
-![Apollo Hospital Dashboard](Screenshot%202025-08-28%20220027.png)
+![Apollo Hospital Dashboard](dashboard%20image.png)
 
 ### 🔹 Key Visuals
 - Patient workflow (Admit, Discharge, Follow-up Dates)  
@@ -77,7 +77,7 @@ The dashboard provides insights into **patient workflow, bed occupancy, doctor a
 
 - **Apollo_Hospital_Dashboard.pbix** → Power BI Dashboard file  
 - **Hospital_Dataset.csv** → Sample dataset (if included)  
-- **Screenshot 2025-08-28 220027.png** → Dashboard Preview Image  
+- **dashboard image.png** → Dashboard Preview Image  
 - **README.md** → Project documentation  
 
 ---
@@ -88,3 +88,4 @@ The dashboard provides insights into **patient workflow, bed occupancy, doctor a
 
    ```bash
    git clone https://github.com/your-username/Apollo-Hospital-Dashboard.git
+
